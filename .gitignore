@@ -1,3 +1,7 @@
 EDA TRIALS/*
 
 !EDA TRIALS/*.ipynb
+
+.ipynb_checkpoints
+
+.DS_Store
