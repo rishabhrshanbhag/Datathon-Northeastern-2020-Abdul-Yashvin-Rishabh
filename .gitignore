@@ -1,12 +1,7 @@
 EDA TRIALS/*
 
-!EDA TRIALS/*.ipynb
-
-EDA TRIALS/covid19-data-model.ipynb
-
 SIR model building tryouts/*
 
-!SIR model building tryouts/*.ipynb
 
 
 *.ipynb_checkpoints
