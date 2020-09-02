@@ -17,7 +17,9 @@ Probability from Critical to Recovered: 0.21 <br />
 
 To Run the code use Anaconda Jupyter Notebook
 
-SIR_final.ipynb contains the main code with the derived equations. <br />
+EDA.ipynb contains the EDA performed on a few datasets we downloaded to explore and analyse data to get project ideas.
+
+SIR.ipynb contains the main code with the derived equations. <br />
 in this we have written equations which will be made to fit the curve of the real data to find out the parameters affecting the impact of this pandemic.
 
 We have referred to the following article to help us understand SIR models and implement it. <br />
